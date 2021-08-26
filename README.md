@@ -1,16 +1,20 @@
-### Hi there 👋
+### ¡Hola amigos! 👋
 
 <!--
 **LizethGaray21/LizethGaray21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aqui unas pequeñas cosas sobre mi :) :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estudio la carrera de Ingenieria en Sistemas Computacionales
+- 🌱 Soy una persona buena onda 
+- 👯 Me gusta salir cuando tengo tiempo libre
+- 🤔 Estudio y trabajo 
+- 💬 Me gusta tener platicas largas con mis amigos :D
+- 📫 Puedes contactarme:
+-Fb:Lizeth Garay 
+-Ig:lizeth.garay21
+-Correo:lizeth.garay19@tectijuana.edu.mx 
+- 😄 Continúa a pesar de que todos esperen que abandones. No dejes que se oxide el hierro que hay en ti ~ Teresa de Calcuta
+- ⚡ Sabias: Soy ex-alumna del Cetis 156 y tambien alumna del TEC <3
 -->
+
