@@ -1,7 +1,6 @@
 ### ¡Hola amigos! 👋
 
-![](https://cooltext.com/Render-Image?RenderID=391660469340560&LogoId=3916604693.gif)
-
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 **LizethGaray21/LizethGaray21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Aqui unas pequeñas cosas sobre mi :) :
