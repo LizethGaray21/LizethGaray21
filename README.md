@@ -1,5 +1,6 @@
 ### ¡Hola amigos! 👋
 
+![](https://cooltext.com/Render-Image?RenderID=391660469340560&LogoId=3916604693)
 
 **LizethGaray21/LizethGaray21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
