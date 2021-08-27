@@ -1,12 +1,8 @@
 ### ¡Hola amigos! 👋
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5549026.png" width="766" height="180" alt="Soy Lizeth Garay" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3917188557">Create An Image Just Like This</a>
-
-
 ![](https://images.cooltext.com/5549026.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>1
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 **LizethGaray21/LizethGaray21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
