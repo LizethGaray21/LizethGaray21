@@ -1,9 +1,10 @@
 ![](https://cooltext.com/Render-Image?RenderID=391718855730138&LogoId=3917188557)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 ### ¡Hola amigos! 👋
 
-<img src="‪cooltext391718855730138.png">
+<img src="‪\Users\Dell\Downloads\cooltext391718855730138.png">
+
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 **LizethGaray21/LizethGaray21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
