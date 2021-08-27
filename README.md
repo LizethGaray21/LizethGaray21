@@ -19,4 +19,6 @@ Aqui unas pequeñas cosas sobre mi :) :
 - 😄 Continúa a pesar de que todos esperen que abandones. No dejes que se oxide el hierro que hay en ti ~ Teresa de Calcuta
 - ⚡ Sabias: Soy ex-alumna del Cetis 156 y tambien alumna del TEC <3
 
+##Este es mi horario 
+<table><tr><td class="border_l border_r border_t border_b selected"><div class="wrap"><div class="entry-editing" contenteditable="true" style="margin: 10px 5px;"><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fundamentos de</font></font></span></p><p><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">telecomunicaciones</font></font></span></p></div></div></td></tr></table>
 
